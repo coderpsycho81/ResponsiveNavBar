@@ -1,7 +1,7 @@
 # Explanation
 A responsive navigation bar I developed using HTML, CSS, and JavaScript.
 
-<img src="https://github.com/coderpsycho81/ZipWizard/blob/main/ZipWizard.png" alt="alt text" width="320" height="180">  <img src="https://github.com/coderpsycho81/ZipWizard/blob/main/ZipWizard.png" alt="alt text" width="320" height="180">     
+<img src="https://github.com/coderpsycho81/ResponsiveNavBar/blob/main/1.png" alt="alt text" width="320" height="180">  <img src="https://github.com/coderpsycho81/ResponsiveNavBar/blob/main/2.png" alt="alt text" width="320" height="180">     
 
 # 💫 About Me:
 💎I'm Software Engineer<br>💻I'm Game Developer & AR-VR Game Developer<br>👨🏻‍💻I'm Full Stack Developer<br>👾I'm C# Desktop Application Developer<br>🕵🏻I'm Cyber Security Tools Developer
